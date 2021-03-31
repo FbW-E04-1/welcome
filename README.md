@@ -115,6 +115,7 @@ GitHub uses a simple syntax for styling text: Markdown. You can read about it
 * Create a README.md file in the project
 * Use Markdown to edit the README file to describe what you plan to make
 * Use Markdown to edit the repository's Wiki to start mapping out the details of the project
+* For example, you could create a CV/bio in Markdown, including images and links, to share with your teammates
 
 ---
 ### Slack
