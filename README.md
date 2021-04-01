@@ -1,4 +1,4 @@
-# Laptop Setup
+# Setting up your laptop for web development
 
 ## Nautilus
 
@@ -60,7 +60,7 @@ root
 
 ## Join the class's Slack Workspace
 
-[Join](https://join.slack.com/t/fbw-e04-1/shared_invite/zt-ofx5dibn-kiG~EiCFhBIhXqrEEdiWSw)
+_Ask me for an invitation link_
 
 ## Install Node Version Manager (NVM)
 
@@ -98,6 +98,8 @@ npm --version
 4. Wait for me to add you to the organization
 5. Visit the class's [Organization page](https://github.com/FbW-E04-1)
 
+---
+---
 ## Play with your new tools
 
 ### Play with Markdown in VS Code
@@ -115,7 +117,6 @@ GitHub uses a simple syntax for styling text: Markdown. You can read about it
 * Create a README.md file in the project
 * Use Markdown to edit the README file to describe what you plan to make
 * Use Markdown to edit the repository's Wiki to start mapping out the details of the project
-* For example, you could create a CV/bio in Markdown, including images and links, to share with your teammates
 
 ---
 ### Slack
@@ -123,7 +124,42 @@ GitHub uses a simple syntax for styling text: Markdown. You can read about it
 * Send everyone a link to your GitHub repository
 
 ---
-### Teaming up
+### Team
 * Check out the projects that your team members have imagined
 * Send Direct Messages (DMs) to the 2 people whose ideas interest you the most, telling them what you like about the project
-*
+* Suggest a Team Name (or more than one)
+* Suggest a logo for the team
+* Discuss and vote on the suggestions
+
+---
+### Learning How to Learn
+#### The Importance of Effort
+[Carol Dweck's experiment](https://www.youtube.com/watch?v=TTXrV0_3UjY)  
+[The results](https://www.youtube.com/watch?v=NWv1VdDeoRY&t=10s)
+
+#### Teach in Order To Learn
+[The Feynman Learning Method](https://medium.com/taking-note/learning-from-the-feynman-technique-5373014ad230#db20)
+
+#### Take on Challenges
+
+[Solving Unsolved Problems](https://www.informs.org/Recognizing-Excellence/INFORMS-Prizes/George-B.-Dantzig-Dissertation-Award/Who-Was-George-B.-Dantzig)
+
+#### Organize Your Ideas
+[Evernote](https://evernote.com/)  
+[Trello](https://trello.com/)  
+[OmniOutliner (for Mac)](https://www.omnigroup.com/omnioutliner/)  
+[Balsamiq Wireframes](https://balsamiq.com/)  
+[Mural](https://www.mural.co/features?) ([Mind maps](https://www.mural.co/templates/mind-map))  
+Or choose your own favourite app for visualizing and sharing your ideas.
+
+---
+### Videos
+* [The Code - history of Linux](https://www.youtube.com/watch?v=XMm0HsmOTFI)
+* [The mind behind Linux | Linus Torvalds](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux)
+* [A History of WebDev](https://www.youtube.com/watch?v=41mnNyMxPOA&amp;t=583s&amp;ab_channel=NDCConferences)
+* [A History of Programming Languages](https://www.youtube.com/watch?v=Tr9E_vzKRVo&amp;t=2s&amp;ab_channel=Luminis)
+
+---
+### Reading
+* [The Invention of Unix](https://www.bell-labs.com/institute/blog/invention-unix/)  
+* [Getting Started with Ubuntu](https://help.ubuntu.com/stable/ubuntu-help/index.html.en)
