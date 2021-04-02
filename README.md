@@ -125,11 +125,12 @@ GitHub uses a simple syntax for styling text: Markdown. You can read about it
 
 ---
 ### Team
-* Check out the projects that your team members have imagined
-* Send Direct Messages (DMs) to the 2 people whose ideas interest you the most, telling them what you like about the project
-* Suggest a Team Name (or more than one)
-* Suggest a logo for the team
-* Discuss and vote on the suggestions
+
+* Check out the projects that your team members have imagined  
+* Send Direct Messages (DMs) to the 2 people whose ideas interest you the most, telling them what you like about the project  
+* Suggest a Team Name (or more than one)  
+* Suggest a logo for the team  
+* Discuss and vote on the suggestions 
 
 ---
 ### Learning How to Learn
